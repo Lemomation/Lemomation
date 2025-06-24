@@ -10,11 +10,11 @@ I'm a young developer and game creator passionate about storytelling, AI, and bu
 - **School Life** (WIP)  
   A slice-of-life simulation game where players navigate high school dynamics, build relationships, and uncover hidden layers of each character. Includes mechanics like popularity, trust, announcements, time systems, and more.
 
-- **Every Once in a While**  
+- **Every Once in a While**  (WIP)
   A short emotional visual novel made in Godot. The story follows a girl with only 7 days to live. It's designed to leave players with a sense of bittersweet incompleteness.  
   Final line: *"You don't have to remember or keep thinking about me every day, but make sure to do it every once in a while."*
 
-- **Cleaning Chaos**  
+- **Cleaning Chaos**  (WIP)
   A quick co-op game where two players control robots and clean a messy house together using different keyboard key clusters.
 
 - **OBI** (Dream Project – Early Concept)  
@@ -30,8 +30,9 @@ I'm a young developer and game creator passionate about storytelling, AI, and bu
   - Online Version: Connects to Gemini via API.  
   - Features: Session memory, message bubble UI, voice input with Vosk, Edge TTS voice output, and real-time conversation.
 
-- **Stripped-down Gemini Chat App** (Android)  
-  A minimal messaging-style chat app using Gemini and Google AI Studio, focused on lightweight performance and context-aware replies.
+- **Discord Image generator** 
+  a discord bot that can generate images using gemini 2.0 flash image gen model
+  
 
 ---
 

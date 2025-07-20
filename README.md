@@ -51,7 +51,7 @@ I'm a young developer and game creator passionate about storytelling, AI, and bu
 ---
 
 ## 📌 Fun Facts
-- I'm currently 15 years old.
+
 - I’m always balancing humor and seriousness in my work.
 - I love giving characters real emotional depth—even in wild or comedic settings.
 - I'm not afraid to break hearts in visual novels. 💔🔥

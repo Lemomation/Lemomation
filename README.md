@@ -61,3 +61,4 @@ I'm a young developer and game creator passionate about storytelling, AI, and bu
 ## ✨ Let’s Connect!
 If you're a fellow indie dev, AI enthusiast, or just someone who vibes with weird, funny, emotional stories—stick around, explore my projects, or reach out!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51OBOT5)

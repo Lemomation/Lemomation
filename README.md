@@ -1,8 +1,8 @@
 # 👋 Hey there! Welcome to my GitHub
 
-I'm a developer and game creator passionate about storytelling, AI, and building cool things that leave an emotional impact. Whether it's a heartfelt visual novel, a chaotic co-op game, or a personal AI assistant, I'm always experimenting and learning.
+I'm a developer and game creator, I love AI, and building cool things 
 
----
+I survive on coffee and 4 hours of sleep
 
 I don't have any specific things i make, i make whatever i need
 

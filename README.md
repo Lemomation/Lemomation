@@ -54,11 +54,11 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/736x/f4/54/4d/f4544d248a9d2d2dfefd2c12e7138292.jpg" width="150" style="border-radius: 12px;" alt="Confused Layla" />
+      <img src="https://i.pinimg.com/736x/f4/54/4d/f4544d248a9d2d2dfefd2c12e7138292.jpg" width="150" style="border-radius: 12px;" alt="Layla" />
     </td>
     <td width="70%" valign="middle">
-      <p>This link below is just for show, don't donate anything!</p>
-      <a href="https://ko-fi.com/V7V51OBOT5" target="_blank">
+      <p>If you enjoy my work or want to support ongoing development, feel free to buy me a coffee!</p>
+      <a href="https://ko-fi.com/X1A32AR2LQ" target="_blank">
         <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
       </a>
     </td>
